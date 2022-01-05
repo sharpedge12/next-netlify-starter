@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Made by Sharpedge... <code>GET LOST...;)</code>
         </p>
       </main>
 
